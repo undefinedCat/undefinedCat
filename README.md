@@ -1,4 +1,3 @@
 - 👋 Hi, I’m **@undefinedCat**
-- 👀 I’m interested in **Arduino**
-- 🌱 I’m currently learning **C++ for Arduino**
-- 💞️ I’m looking to collaborate on **some projects**
+- Doing **absolutely nothing**, sometimes _make_ **simple HTML games**.
+- Go **donate** for me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8G0Q60)
