@@ -1,3 +1,3 @@
 - 👋 Hi, I’m **@undefinedCat**
 - Doing **absolutely nothing**, sometimes _make_ **simple HTML games**.
-- Go **donate** for me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8G0Q60)
+- Go **donate** for me: _link unavaliable_
